@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "node-webhook-api-example",
+  "description": "Backoff web service",
+  "version": "1.0.0-beta.1",
+  "license": "MIT",
+  "author": "Cory Mawhorter <cory.mawhorter@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmawhorter/node-webhook-api-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cmawhorter/node-webhook-api-example/issues"
+  },
+  "homepage": "https://github.com/cmawhorter/node-webhook-api-example",
+  "dependencies": {
+    "bunyan": "^1.4.0",
+    "bunyan-prettystream": "^0.1.3",
+    "request": "^2.58.0",
+    "restify": "^3.0.3"
+  }
+}
