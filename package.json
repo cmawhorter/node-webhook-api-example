@@ -1,8 +1,8 @@
 {
   "private": true,
   "name": "node-webhook-api-example",
-  "description": "Backoff web service",
-  "version": "1.0.0-beta.1",
+  "description": "Example of API server based on restify that triggers web hooks",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Cory Mawhorter <cory.mawhorter@gmail.com>",
   "repository": {
